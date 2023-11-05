@@ -3,9 +3,9 @@ const typeDisplay = document.getElementById("type-display");
 const typeInput = document.getElementById('type-Input');
 const timer = document.getElementById('timer');
 
-const typeSound = new Audio('./audio/typing-sound.mp3');
-const wrongSound = new Audio('./audio/wrong (1).mp3');
-const correctSound = new Audio('./audio/correct.mp3');
+const typeSound = new Audio('./typing-sound.mp3');
+const wrongSound = new Audio('./wrong (1).mp3');
+const correctSound = new Audio('./correct.mp3');
 
 
 /*inputテキスト入力の判定 */
